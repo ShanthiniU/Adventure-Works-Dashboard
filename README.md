@@ -62,13 +62,17 @@ This map visualizes sales and customer data across different geographic regions,
 # Screenshots
 
 1. Executive Dashboard
+
 (https://github.com/ShanthiniU/Adventure-Works-Dashboard/blob/main/Excel%20Dashboard.png)
 
 2. Map
+
 (https://github.com/ShanthiniU/Adventure-Works-Dashboard/blob/main/Map.png)
 
 3. Customer Detail
+
 (https://github.com/ShanthiniU/Adventure-Works-Dashboard/blob/main/Customer%20Detail.png)
 
 4. Product Detail
+
 (https://github.com/ShanthiniU/Adventure-Works-Dashboard/blob/main/Product%20Detail.png)
